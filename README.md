@@ -87,7 +87,8 @@ The Android app provides a simple interface to interact with the ESP32 system, a
 
 📸 Demonstration
 
-(Add screenshots or photos of the circuit and app interface here)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4513437e-e755-46e6-aa21-c383d70455e9" />
+
 
 📊 Results
 Successful real-time control
